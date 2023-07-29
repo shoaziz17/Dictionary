@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "https://avatars.mds.yandex.net/i?id=981f4f81e141e53dcf4a589de21ddff95709373f-8829620-images-thumbs&n=13",
+    "name": "Burger",
+    "detail": "Для домашнего бургера идеальным сырьем может быть кусок из верхней части ноги, зачищенный от жилок. ",
+    "price": "5$"
+  },
+  {
+    "id": 2,
+    "image": "https://avatars.mds.yandex.net/i?id=e79bfe9bbcf4daa616fcead6f7d59ed8f637358b-10307609-images-thumbs&n=13",
+    "name": "Hot-Dog",
+    "detail": "Хот-дог — это блюдо, состоящее из жареной или приготовленной на пару сосиски, подаваемой в разрезе булочки. Термин «хот-дог» также может относиться и к самой сосиске.",
+    "price": "3$"
+  },
+  {
+    "id": 3,
+    "image": "https://avatars.mds.yandex.net/i?id=981f4f81e141e53dcf4a589de21ddff95709373f-8829620-images-thumbs&n=13",
+    "name": "Pizza",
+    "detail": "Yurak Pizza. Yaxshi ko’rgan insoningizni g'ayrioddiy pitsa bilan hayratda qoldiring Pepperoni kolbasalari, yumshoq mozzarella pishloqi va pomidor sousi. 79,000 so'mdan",
+    "price": "8$"
+  },
+  {
+    "id": 4,
+    "image": "https://avatars.mds.yandex.net/i?id=44c5f6c6dae69707e575d74306c6f703342c2f42-9229611-images-thumbs&n=13",
+    "name": "Ice Tea",
+    "detail": "Iced tea (or ice tea) is a form of cold tea. Though it is usually served in a glass with ice, it can refer to any tea that has been chilled or cooled. It may be sweetened with sugar or syrup",
+    "price": "3$"
+  },
+  {
+    "id": 5,
+    "image": "https://avatars.mds.yandex.net/i?id=2df907a5d92e45090ba93a636ae899edc37920ad-8341432-images-thumbs&n=13",
+    "name": "Salad",
+    "detail": "When a sauce is used to flavor a salad, it is generally called a dressing; most salad dressings are based on either a mixture of oil and vinegar or a creamy dairy base.",
+    "price": "7$"
+  },
+  {
+    "id": 6,
+    "image": "https://avatars.mds.yandex.net/i?id=04846f8fdee31a3dbc0b2f3b19f0939cafbdaf3c-8497208-images-thumbs&n=13",
+    "name": "French Fries",
+    "detail": "Fries can be topped more heavily, as in the dishes of poutine or chili cheese fries. French fries can be made from sweet potatoes instead of potatoes.",
+    "price": "2$"
+  }
+]

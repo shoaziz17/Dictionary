@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.modal-container{
+    width: 80%;
+    margin: 30px auto;
+}
+
+.top span{
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.star ,.voice{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+span button{
+    border: none;
+    outline: none;
+    background-color: inherit;
+}
+
+.defs{
+    margin-left: 20px;
+}
